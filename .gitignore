@@ -13,3 +13,6 @@ venv/
 
 # CSV files
 *.csv
+
+# pickle
+#*.pkl
